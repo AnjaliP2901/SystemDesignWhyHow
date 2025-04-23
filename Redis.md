@@ -44,3 +44,6 @@ whereas Sentinel focuses solely on high availability for a single dataset.
 
 But in the majority of cases, introducing Sentinel to manage replication and monitoring is enough to all but guarantee that you've eliminated any single point of failure 
 and achieved high availability in that part of your system.
+
+Additional Read : https://www.hellointerview.com/learn/system-design/deep-dives/redis
+
