@@ -1,9 +1,13 @@
 Reference : https://www.linkedin.com/posts/karan-saxena-466b07190_google-maps-is-a-use-case-of-graphs-autocomplete-activity-7320431025145196546-UeAO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACM1duoBiG3PHgy0N4pLCPE98oo0tq_SN8M
 
 Google Maps is a use case of Graphs.
+
 Autocomplete is a use case of Tries.
+
 Your browser’s Back button? That’s a Stack.
+
 Printing jobs queued up? That’s a Queue.
+
 Tracking unique visitors on a site? That’s a Set.
 
 → Arrays & Strings
